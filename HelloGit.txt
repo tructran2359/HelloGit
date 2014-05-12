@@ -1,2 +1,0 @@
-Hello Git v1
-Hello Git v2
